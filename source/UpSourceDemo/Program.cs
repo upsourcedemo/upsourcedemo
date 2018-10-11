@@ -8,7 +8,7 @@ namespace UpSourceDemo
         {
             Console.WriteLine("Hello UpSource World!");
 
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
