@@ -6,7 +6,7 @@ namespace UpSourceDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello UpSource World!");
 
             Console.Read();
         }
