@@ -7,8 +7,7 @@ namespace UpSourceDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello UpSource World!");
-            
-            var b = "someOtherValue";
+
             var a = "someValue";
             Console.ReadLine();
         }
