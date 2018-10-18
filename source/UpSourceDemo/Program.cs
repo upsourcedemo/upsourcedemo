@@ -9,7 +9,7 @@ namespace UpSourceDemo
             Console.WriteLine("Hello UpSource World!");
 
             var a = "someValue";
-            var b = 5;
+            var b = 4;
             Console.ReadLine();
         }
     }
